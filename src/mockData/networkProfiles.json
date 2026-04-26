@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "name": "Aarav Mehta",
+    "designation": "AI Product Lead at Nova Systems",
+    "bio": "Building practical AI workflows for enterprise teams that want faster experimentation without adding process drag.",
+    "about": "Aarav leads applied AI initiatives across internal tooling and customer-facing workflows. He enjoys mentoring early-stage builders, product strategy discussions, and thoughtful conversations about model reliability.",
+    "tags": ["AI", "Product", "Mentor"],
+    "location": "Bengaluru, India",
+    "mutualConnections": 18,
+    "avatarUrl": "https://i.pravatar.cc/300?img=12"
+  },
+  {
+    "id": "2",
+    "name": "Maya Reynolds",
+    "designation": "Founder at Studio Orbit",
+    "bio": "Helping B2B startups turn scattered brand stories into clear product narratives that convert with less noise.",
+    "about": "Maya founded Studio Orbit after a decade in brand strategy. She works closely with founders on positioning, launch stories, and go-to-market messaging that still feels human.",
+    "tags": ["Founder", "Brand", "Strategy"],
+    "location": "Austin, USA",
+    "mutualConnections": 11,
+    "avatarUrl": "https://i.pravatar.cc/300?img=32"
+  },
+  {
+    "id": "3",
+    "name": "Rohan Patel",
+    "designation": "Investor at Meridian Ventures",
+    "bio": "Focused on climate, frontier tech, and founders who know how to balance velocity with long-term conviction.",
+    "about": "Rohan backs seed and Series A teams working in climate software, industrial systems, and infrastructure. He is especially interested in businesses with strong technical defensibility.",
+    "tags": ["Investor", "Climate", "SaaS"],
+    "location": "Mumbai, India",
+    "mutualConnections": 27,
+    "avatarUrl": "https://i.pravatar.cc/300?img=14"
+  },
+  {
+    "id": "4",
+    "name": "Nina Alvarez",
+    "designation": "Growth Marketing Director at Northlane",
+    "bio": "Scaling demand generation with sharper experimentation loops, better lifecycle design, and teams that actually talk to each other.",
+    "about": "Nina has spent the last seven years building growth programs for SaaS and fintech brands. She likes clean funnels, strong attribution, and making creative teams feel close to performance data.",
+    "tags": ["Growth", "Marketing", "B2B"],
+    "location": "Madrid, Spain",
+    "mutualConnections": 9,
+    "avatarUrl": "https://i.pravatar.cc/300?img=47"
+  },
+  {
+    "id": "5",
+    "name": "Ethan Brooks",
+    "designation": "Senior Software Architect at Cedar Labs",
+    "bio": "Designing resilient platforms, calmer developer workflows, and systems that are easier to evolve under real pressure.",
+    "about": "Ethan works across backend architecture, developer tooling, and platform modernization. He enjoys untangling legacy systems and turning operational pain into maintainable patterns.",
+    "tags": ["Architecture", "Backend", "Platform"],
+    "location": "Seattle, USA",
+    "mutualConnections": 21,
+    "avatarUrl": "https://i.pravatar.cc/300?img=15"
+  },
+  {
+    "id": "6",
+    "name": "Zoya Khan",
+    "designation": "UX Researcher at Lattice Flow",
+    "bio": "Translating messy user behavior into product clarity through deep interviews, synthesis, and grounded design recommendations.",
+    "about": "Zoya leads mixed-method research for collaboration products. She is especially interested in workplace behavior, inclusive design systems, and how research changes product strategy when it is shared well.",
+    "tags": ["UX", "Research", "Design"],
+    "location": "Dubai, UAE",
+    "mutualConnections": 14,
+    "avatarUrl": "https://i.pravatar.cc/300?img=41"
+  },
+  {
+    "id": "7",
+    "name": "Daniel Kim",
+    "designation": "Operations Lead at Parcel Grid",
+    "bio": "Improving operational reliability with better process design, field tooling, and metrics people can trust under load.",
+    "about": "Daniel has built logistics and operations systems across delivery, warehousing, and internal planning. He likes turning ambiguous execution problems into repeatable operating models.",
+    "tags": ["Operations", "Logistics", "Analytics"],
+    "location": "Seoul, South Korea",
+    "mutualConnections": 6,
+    "avatarUrl": "https://i.pravatar.cc/300?img=20"
+  },
+  {
+    "id": "8",
+    "name": "Priya Sethi",
+    "designation": "Community Builder at Founders Circle",
+    "bio": "Designing communities that create genuine belonging, useful conversations, and steady value beyond the launch moment.",
+    "about": "Priya works with founder and operator communities across events, partnerships, and member programs. She cares about thoughtful facilitation and long-term trust over surface-level engagement.",
+    "tags": ["Community", "Founder", "Events"],
+    "location": "Delhi, India",
+    "mutualConnections": 19,
+    "avatarUrl": "https://i.pravatar.cc/300?img=45"
+  },
+  {
+    "id": "9",
+    "name": "Luca Moretti",
+    "designation": "Design Systems Engineer at Tidal Suite",
+    "bio": "Bridging design and engineering with accessible components, better tokens, and a lot less handoff friction.",
+    "about": "Luca maintains multi-platform UI infrastructure across web and mobile surfaces. He spends most of his time on accessibility, component APIs, and keeping design systems ergonomic for product teams.",
+    "tags": ["Design Systems", "Frontend", "Accessibility"],
+    "location": "Milan, Italy",
+    "mutualConnections": 13,
+    "avatarUrl": "https://i.pravatar.cc/300?img=18"
+  },
+  {
+    "id": "10",
+    "name": "Sara Thompson",
+    "designation": "Partnerships Manager at Helio Health",
+    "bio": "Connecting health-tech teams, channel partners, and operators around partnerships that hold up after the pitch deck.",
+    "about": "Sara builds strategic partnerships across digital health, provider networks, and enterprise distribution. She enjoys turning warm conversations into strong working relationships with real operational follow-through.",
+    "tags": ["Partnerships", "HealthTech", "Strategy"],
+    "location": "Boston, USA",
+    "mutualConnections": 8,
+    "avatarUrl": "https://i.pravatar.cc/300?img=48"
+  },
+  {
+    "id": "11",
+    "name": "Kabir Rao",
+    "designation": "Machine Learning Engineer at Vector Forge",
+    "bio": "Shipping production ML systems with better observability, sensible evaluation, and fewer mystery regressions.",
+    "about": "Kabir works on ranking and recommendation systems for consumer products. He is interested in data quality, evaluation tooling, and collaboration patterns between ML and product teams.",
+    "tags": ["ML", "Data", "AI"],
+    "location": "Hyderabad, India",
+    "mutualConnections": 24,
+    "avatarUrl": "https://i.pravatar.cc/300?img=13"
+  },
+  {
+    "id": "12",
+    "name": "Olivia Park",
+    "designation": "Startup Counsel at Ridge Legal",
+    "bio": "Advising venture-backed teams on fundraising, commercial contracts, and the quiet legal details that matter later.",
+    "about": "Olivia supports founders through formation, fundraising, and scaling milestones. She likes practical legal guidance that helps teams move with confidence instead of adding avoidable friction.",
+    "tags": ["Legal", "Startup", "Venture"],
+    "location": "Singapore",
+    "mutualConnections": 5,
+    "avatarUrl": "https://i.pravatar.cc/300?img=36"
+  },
+  {
+    "id": "13",
+    "name": "Noah Fischer",
+    "designation": "Revenue Operations Manager at Peakflow",
+    "bio": "Aligning sales, success, and finance around cleaner data, better forecasting, and workflows that teams actually use.",
+    "about": "Noah runs revenue operations for a fast-growing B2B team. He spends time on pipeline hygiene, process design, and tooling decisions that reduce reporting chaos for GTM teams.",
+    "tags": ["RevOps", "Sales", "Analytics"],
+    "location": "Berlin, Germany",
+    "mutualConnections": 12,
+    "avatarUrl": "https://i.pravatar.cc/300?img=21"
+  },
+  {
+    "id": "14",
+    "name": "Isha Verma",
+    "designation": "Founder in Residence at Ember Capital",
+    "bio": "Exploring new company ideas at the edge of commerce, identity, and trust on the internet.",
+    "about": "Isha works with founders and investors on company formation, GTM discovery, and narrative shaping. She is especially interested in products that help small businesses operate with more leverage.",
+    "tags": ["Founder", "Venture", "E-commerce"],
+    "location": "Pune, India",
+    "mutualConnections": 17,
+    "avatarUrl": "https://i.pravatar.cc/300?img=44"
+  },
+  {
+    "id": "15",
+    "name": "Marcus Allen",
+    "designation": "Cybersecurity Consultant at Blackpine",
+    "bio": "Helping teams build practical security habits without turning every product conversation into a compliance maze.",
+    "about": "Marcus advises startups and growth-stage companies on security posture, architecture reviews, and incident preparation. He values security work that enables shipping instead of stalling it.",
+    "tags": ["Security", "Compliance", "Infra"],
+    "location": "Chicago, USA",
+    "mutualConnections": 7,
+    "avatarUrl": "https://i.pravatar.cc/300?img=16"
+  },
+  {
+    "id": "16",
+    "name": "Anika Bose",
+    "designation": "People Operations Partner at Atlas Core",
+    "bio": "Shaping healthier teams through better hiring loops, manager enablement, and human systems that scale with care.",
+    "about": "Anika works across hiring, onboarding, and internal operating rhythm. She believes the best people systems reduce ambiguity while still leaving room for individual judgment.",
+    "tags": ["People Ops", "Hiring", "Culture"],
+    "location": "Kolkata, India",
+    "mutualConnections": 10,
+    "avatarUrl": "https://i.pravatar.cc/300?img=40"
+  },
+  {
+    "id": "17",
+    "name": "Theo Martin",
+    "designation": "Angel Investor and Operator",
+    "bio": "Backing ambitious early teams and helping them sharpen hiring, pricing, and their first repeatable operating cadence.",
+    "about": "Theo is a former operator turned active angel investor. He works closely with founders on early GTM systems, leadership hiring, and avoiding preventable execution bottlenecks.",
+    "tags": ["Investor", "Operator", "SaaS"],
+    "location": "London, UK",
+    "mutualConnections": 22,
+    "avatarUrl": "https://i.pravatar.cc/300?img=23"
+  },
+  {
+    "id": "18",
+    "name": "Leila Haddad",
+    "designation": "Sustainability Program Manager at Terra Loop",
+    "bio": "Driving cross-functional climate programs with strong stakeholder alignment and metrics that survive executive review.",
+    "about": "Leila coordinates sustainability programs across operations, policy, and product teams. She is motivated by practical decarbonization work and clear communication across complex initiatives.",
+    "tags": ["Sustainability", "Program", "Climate"],
+    "location": "Abu Dhabi, UAE",
+    "mutualConnections": 16,
+    "avatarUrl": "https://i.pravatar.cc/300?img=39"
+  },
+  {
+    "id": "19",
+    "name": "Arjun Nair",
+    "designation": "Mobile Engineering Lead at Current Path",
+    "bio": "Building mobile experiences that feel fast, calm, and durable under the weird realities of production apps.",
+    "about": "Arjun leads mobile engineering across React Native and native platform teams. He likes strong architecture, animation discipline, and practical performance work that users can feel.",
+    "tags": ["Mobile", "React Native", "Performance"],
+    "location": "Chennai, India",
+    "mutualConnections": 25,
+    "avatarUrl": "https://i.pravatar.cc/300?img=11"
+  },
+  {
+    "id": "20",
+    "name": "Clara Dupont",
+    "designation": "Customer Success Strategist at Quiet River",
+    "bio": "Helping post-sale teams create calmer onboarding journeys, smarter adoption moments, and stronger renewals.",
+    "about": "Clara works with SaaS teams on onboarding design, customer education, and expansion strategy. She is especially interested in product-led adoption signals and long-term account health.",
+    "tags": ["Customer Success", "SaaS", "Onboarding"],
+    "location": "Paris, France",
+    "mutualConnections": 15,
+    "avatarUrl": "https://i.pravatar.cc/300?img=49"
+  }
+]
